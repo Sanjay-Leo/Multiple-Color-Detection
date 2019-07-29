@@ -10,3 +10,9 @@ Right now it can only identify the following colors together-
  * Yellow
  * Orange
  * Green
+
+
+## Dependencies :
+
+1. Python
+2. Opencv-Python
