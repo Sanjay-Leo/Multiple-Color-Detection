@@ -5,11 +5,11 @@ Real-Time Multiple Color Detection through WebCam
 
 Right now it can only identify the following colors together-
 
- * Red
- * Blue
- * Yellow
- * Orange
- * Green
+   * Red
+   * Blue
+   * Yellow
+   * Orange
+   * Green
 
 
 ## Dependencies :
